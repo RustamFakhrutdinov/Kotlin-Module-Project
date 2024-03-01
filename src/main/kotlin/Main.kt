@@ -1,3 +1,3 @@
 fun main(args: Array<String>) {
-    ArchiveScreenNew().startArchiveMenu()
+    println("Hello World!")
 }

@@ -1,4 +1,4 @@
-class Note(val name:String) {
+class NoteNew (private val noteName:String): Element(name = noteName) {
     var noteField: String = ""
 
     fun showNote() {
